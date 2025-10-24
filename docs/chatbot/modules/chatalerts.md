@@ -38,7 +38,7 @@ Chat Alerts are triggered automatically when configured events happen during you
 
 1. Follower Alert:
    ```
-   New follower hype! Welcome to the stream, @NewFollower123! Thanks for joining our community!
+   Приветствую тебя в своей харчевне, новый пивовар!
    ```
 
 2. Subscription Alert:
